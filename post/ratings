@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="description" content="( ´•௰•`) Hot Opinions ( ´•௰•`) : ">
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<title>( ´•௰•`) Hot Opinions ( ´•௰•`) </title>
+</head>
+<body>
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+<header class="inner">
+<a id="forkme_banner" href="https://github.com/gjdo3">View on GitHub</a>
+<h1 id="project_title">Rating System Explained</h1>
+<h2 id="project_tagline"></h2>
+</header>
+</div>
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
+<h3>Hot Opinions</h3>
+<p>I don't like numeric scores for a few reasons. They encourage people to not explain themselves and rely on the 
+number as a good/bad indicator. They imply an objective rating to a subjective topic. They tend to raise 
+unreasonable expectations. So I don't use them. Instead I will provide a tl;dr at the bottom of every review a
+along with an emoticon that shows my feelings about what I reviewed. Overly positive reviews will have very happy
+emoticons, negative ones will have negative emoticons. Easy to understand, and open to interpretation. Remember, 
+these are just opinions ʕ´•ᴥ•`ʔ</p>
+</section>
+</div>
+<!-- FOOTER -->
+<div id="footer_wrap" class="outer">
+<footer class="inner">
+<p>Back to <a href="https://gjdo3.github.io/">site directory</a></p>
+</footer>
+</div>
+</body>
+</html>

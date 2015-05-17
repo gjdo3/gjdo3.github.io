@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="description" content="( ´•ω•`)Hot Opinions ( ´•ω•`) :">
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<title> ( ´•ω•`)Hot Opinions ( ´•ω•`) </title>
+</head>
+<body>
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+<header class="inner">
+<a id="forkme_banner" href="https://github.com/gjdo3">View on GitHub</a>
+<h1 id="project_title">Reviews Index</h1>
+<h2 id="project_tagline">"You sure have good taste!" - every reader</h2>
+</header>
+</div>
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
+<h3></h3>
+<p> <a href="https://gjdo3.github.io/post/jacksonscott-sunshineredux.html">Jackson Scott - Sunshine Redux - neo-psychedelia, shoegaze, dream pop</a></p>
+<p> <a href="https://gjdo3.github.io/post/vijayiyer-breakstuff">Vijay Iyer Trio - Break Stuff - jazz, hard bop</a></p>
+<p> <a href="https://gjdo3.github.io/post/dirtwire-riptide">Dirtwire - RipTide - electronica, americana, electroacoustic</a></p>
+<p> <a href="https://gjdo3.github.io/post/torres-sprinter.html">Torres - Sprinter - alt rock, singer-songwriter</a></p>
+<p> <a href="https://gjdo3.github.io/post/comainalgiers-happyforever.html">Coma in Algiers - Happy Forever - noise punk, punk rock</a></p>
+<p> <a href="https://gjdo3.github.io/post/jennyhval-apocalypsegirl">Jenny Hval - Apocalypse, girl - singer-songwriter, dark ambient</a></p>
+<p> 1,<a href="placeholder">2</a></p>
+</section>
+</div>
+<!-- FOOTER -->
+<div id="footer_wrap" class="outer">
+<footer class="inner">
+<p>Back to <a href="https://gjdo3.github.io/">site directory</a></p>
+</footer>
+</div>
+</body>
+</html>
